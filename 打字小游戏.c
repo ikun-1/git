@@ -4,12 +4,7 @@
 #include<time.h>
 void help()
 {
-	printf("\n*******************");
-	printf("\n*输入过程无法退出！*");
-	printf("请按所给字母敲击看盘！");
-	printf("按任意键开始测试，按下首字母开始计时！*");
-	printf("*输入出错则以——表示  *");
-	printf("\n**********\n"); 
+	printf("\n*******************\n按空格继续 按ESC结束\n");
 }
 int main()
 {
